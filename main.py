@@ -3,6 +3,8 @@ import datetime
 from pprint import pprint
 from config import weather_API
 
+print("ootookee")
+
 def get_weather(location, weather_API):
     
     description_code = {
